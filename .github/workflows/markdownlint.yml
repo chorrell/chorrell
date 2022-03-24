@@ -1,0 +1,12 @@
+
+name: markdownlint 
+
+on:
+  pull_request:
+
+jobs:
+  shfmt:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: docker run --rm -v "$(pwd)":/md -w /md davidanson/markdownlint-cli2:0.4.0 "*.md"
