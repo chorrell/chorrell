@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD013 -->
 # Hi :wave:, I'm Christopher Horrell
 
 I'm a Canadian currently living in Toronto, grew up in Scarborough.
