@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: docker run --rm -v "$(pwd)":/md -w /md davidanson/markdownlint-cli2:0.4.0 "*.md"
+      - run: docker run -v $PWD:/workdir davidanson/markdownlint-cli2:v0.5.1 "**/*.md" "#node_modules"
