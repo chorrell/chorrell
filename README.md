@@ -7,7 +7,7 @@ I'm a DevOps Engineer with long career in the web hosting and cloud computing sp
 
 ## :loudspeaker: Social
 
-[![Mastodon](https://img.shields.io/badge/Mastodon-black?style=for-the-badge&logo=mastodon&logoColor=white)]([https://twitter.com/chorrell](https://hachyderm.io/@chorrell))
+[![Mastodon](https://img.shields.io/badge/Mastodon-black?style=for-the-badge&logo=mastodon&logoColor=white)](https://hachyderm.io/@chorrell)
 
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chorrell)
 
