@@ -8,5 +8,5 @@ jobs:
   markdownlint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - run: docker run -v $PWD:/workdir davidanson/markdownlint-cli2:v0.5.1 "**/*.md" "#node_modules"
