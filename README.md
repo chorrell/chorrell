@@ -52,6 +52,6 @@ Check out my DevOps blog at [horrell.ca](https://horrell.ca) where I write about
 
 <!-- markdownlint-disable MD033 -->
 <div align="center">
-  <i>Open to interesting DevOps consulting opportunities and challenging infrastructure projects</i>
+  <p style="font-style: italic;">Open to challenging infrastructure projects</p>
 </div>
 <!-- markdownlint-enable MD033 -->
