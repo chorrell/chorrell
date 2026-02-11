@@ -41,6 +41,4 @@ Check out my DevOps blog at [horrell.ca](https://horrell.ca) where I write about
 
 ---
 
-<!-- markdownlint-disable MD033 -->
 <p align="center"><em>Open to challenging infrastructure projects</em></p>
-<!-- markdownlint-enable MD033 -->
