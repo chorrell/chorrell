@@ -1,9 +1,5 @@
 <!-- markdownlint-disable MD013 MD033 MD041 -->
 
-<div style="width: 100%; height: 200px; overflow: hidden; display: flex; align-items: center; justify-content: center;">
-  <img src="https://horrell.ca/content/images/2024/05/walter-1500px-w-1.jpeg" alt="Christopher Horrell Banner" style="width: 100%; height: auto; min-height: 200px; object-fit: cover; object-position: center;" />
-</div>
-
 # Hi 👋, I'm Christopher Horrell
 
 <div align="center">
