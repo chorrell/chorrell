@@ -7,6 +7,9 @@ updates:
       day: "monday"
       time: "09:30"
       timezone: "America/Toronto"
+    cooldown:
+      default-days: 7
+      semver-major-days: 14
     pull-request-branch-name:
       separator: "/"
     commit-message:
