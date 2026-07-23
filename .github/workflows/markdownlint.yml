@@ -1,5 +1,5 @@
 
-name: markdownlint 
+name: markdownlint
 
 on:
   pull_request:
