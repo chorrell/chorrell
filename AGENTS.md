@@ -30,6 +30,32 @@ markdownlint "**/*.md" "#node_modules"
 
 There are no test suites in this repository.
 
+### Pre-commit Hooks
+
+This repository uses [pre-commit](https://pre-commit.com/) to run linting and
+security checks automatically before each commit. Configuration lives in
+`.pre-commit-config.yaml` and includes:
+
+- `actionlint` - lints GitHub Actions workflow files
+- `gitleaks` - detects hardcoded secrets
+- `markdownlint-cli2-docker` - lints markdown files
+- `pre-commit-hooks` - trailing whitespace, end-of-file fixer, YAML
+  validation, merge conflict markers, large file checks, mixed line endings
+- `zizmor` - scans GitHub Actions workflows for security issues
+
+Install and enable the hooks:
+
+```bash
+pip install pre-commit
+pre-commit install
+```
+
+Run all hooks against all files manually:
+
+```bash
+pre-commit run --all-files
+```
+
 ### GitHub Actions
 
 The repository includes a CI workflow (`.github/workflows/markdownlint.yml`) that runs on pull requests.
@@ -84,7 +110,8 @@ The repository includes a CI workflow (`.github/workflows/markdownlint.yml`) tha
 
 1. Create a branch for your changes
 2. Make edits following the style guidelines above
-3. Run markdownlint before committing
+3. Run markdownlint before committing (pre-commit hooks will also run
+   automatically on `git commit`)
 4. Submit a pull request (CI will run linting automatically)
 
 ---
