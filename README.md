@@ -4,9 +4,9 @@
 
 ## About Me
 
-I'm a **Senior DevOps Engineer** with **10+ years of experience** designing, scaling, and optimizing cloud infrastructure. My career in cloud computing dates back to 2006, and I currently run **Horrell DevOps Consulting**, helping companies build robust DevOps practices and efficient cloud infrastructure.
-
-Typically, companies hire me when they need an experienced DevOps engineer to provide leadership and direction on complex infrastructure challenges.
+I'm a DevOps Engineer with 10 years of experience and 20+ years in cloud infrastructure
+and software delivery. Companies hire me when they need an experienced DevOps
+engineer to provide leadership and direction.
 
 ## Specializations
 
