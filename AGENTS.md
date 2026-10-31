@@ -36,12 +36,14 @@ This repository uses [pre-commit](https://pre-commit.com/) to run linting and
 security checks automatically before each commit. Configuration lives in
 `.pre-commit-config.yaml` and includes:
 
-- `actionlint` - lints GitHub Actions workflow files
 - `gitleaks` - detects hardcoded secrets
 - `markdownlint-cli2-docker` - lints markdown files
 - `pre-commit-hooks` - trailing whitespace, end-of-file fixer, YAML
   validation, merge conflict markers, large file checks, mixed line endings
-- `zizmor` - scans GitHub Actions workflows for security issues
+- `zizmor` - the GitHub Actions workflow linter; scans workflows for security
+  issues. actionlint isn't used because it rejects GitHub's `$/`
+  self-repository `uses:` syntax
+  ([rhysd/actionlint#711](https://github.com/rhysd/actionlint/issues/711))
 
 Install and enable the hooks:
 
