@@ -32,7 +32,7 @@ There are no test suites in this repository.
 
 ### Pre-commit Hooks
 
-This repository uses [pre-commit](https://pre-commit.com/) to run linting and
+This repository uses [prek](https://github.com/j178/prek) to run linting and
 security checks automatically before each commit. Configuration lives in
 `.pre-commit-config.yaml` and includes:
 
@@ -48,14 +48,14 @@ security checks automatically before each commit. Configuration lives in
 Install and enable the hooks:
 
 ```bash
-pip install pre-commit
-pre-commit install
+brew install prek
+prek install
 ```
 
 Run all hooks against all files manually:
 
 ```bash
-pre-commit run --all-files
+prek run --all-files
 ```
 
 ### GitHub Actions
