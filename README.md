@@ -22,7 +22,7 @@ I'm open to **full-time**, **contract** and **fractional** work, especially:
 - **Joyent:** Lead QA and Release Engineer for every container and VM image on the Joyent Public Cloud.
 - **Node.js Docker Working Group:** original member and maintainer of the [official Node.js Docker image](https://github.com/nodejs/docker-node). Spoke about it at DockerCon 2015.
 
-Horrell DevOps Consulting is where I keep my showcase projects and full track record: [github.com/horrell-consulting](https://github.com/horrell-consulting).
+Horrell DevOps Consulting is where I keep my showcase projects: [github.com/horrell-consulting](https://github.com/horrell-consulting).
 
 ## Writing
 
