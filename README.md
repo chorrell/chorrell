@@ -1,44 +1,34 @@
 # Hi, I'm Christopher Horrell
 
-![Banner](walter-banner.png)
+![Vintage toy robot with red eyes and chrome antennae](walter-banner.png)
 
-## About Me
+**Staff DevOps Engineer: CI/CD, build and release, and developer productivity.**
 
-I'm a DevOps Engineer with 10 years of experience and 20+ years in cloud infrastructure
-and software delivery. Companies hire me when they need an experienced DevOps
-engineer to provide leadership and direction.
+I build the systems engineering teams use to build, test and ship software, and make them faster and cheaper to run. I have 20+ years in cloud infrastructure and software delivery, and I'm based in Toronto.
 
-## Specializations
+## Work with me
 
-- **DevOps Leadership & Mentoring** - Guiding teams and establishing best practices
-- **AWS Cost Optimization** - Reducing cloud spend while maintaining performance
-- **CI/CD Infrastructure** - Building and optimizing deployment pipelines
-- **Container Technologies** - Docker image creation and containerization strategies
-- **Infrastructure as Code** - Terraform, CloudFormation, and automation
-- **Cloud Architecture** - Designing scalable and resilient systems
+I'm open to **full-time**, **contract** and **fractional** work, especially:
 
-## Professional Experience
+- Designing, building or rescuing CI/CD platforms (Jenkins, GitHub Actions)
+- Making builds faster and cheaper to run on AWS
+- Repeatable, auditable release engineering
+- Docker and machine image pipelines
 
-**Horrell DevOps Consulting** | Toronto, Ontario, Canada
+## Highlights
 
-- Providing expert DevOps consulting and cloud infrastructure solutions
-- Specializing in AWS optimization, CI/CD automation, and team mentorship
+- **Nymi:** built the company's Jenkins CI/CD platform on AWS from scratch, then came back as DevOps Architect to lead it. Cut CI infrastructure costs by about 50% and made builds 30% faster.
+- **Nylas:** Staff Site Reliability Engineer on a production API platform serving thousands of developers.
+- **Joyent:** Lead QA and Release Engineer for every container and VM image on the Joyent Public Cloud.
+- **Node.js Docker Working Group:** original member and maintainer of the [official Node.js Docker image](https://github.com/nodejs/docker-node). Spoke about it at DockerCon 2015.
 
-## Latest Blog Posts
+The full track record and the work you can look at are on my portfolio page, [Horrell DevOps Consulting](https://github.com/horrell-consulting).
 
-Check out my DevOps blog at [horrell.ca](https://horrell.ca) where I write about:
+## Writing
 
-- DevOps practices and infrastructure automation
-- CI/CD pipelines and build systems
-- Cloud computing and containerization
-- Real-world engineering challenges and solutions
+I write about CI/CD, build systems, Packer, Docker and infrastructure automation at [horrell.ca](https://horrell.ca).
 
-## How to Reach Me
+## Get in touch
 
-- **LinkedIn**: [christopherhorrell](https://www.linkedin.com/in/christopherhorrell/)
-- **Website**: [horrell.ca](https://horrell.ca)
-- **Location**: Greater Toronto Area, Canada
-
----
-
-<p align="center"><em>Open to challenging infrastructure projects</em></p>
+- **LinkedIn:** [christopherhorrell](https://www.linkedin.com/in/christopherhorrell/)
+- **Website:** [horrell.ca](https://horrell.ca)

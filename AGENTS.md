@@ -1,6 +1,6 @@
 # AGENTS.md - Agent Guidelines for This Repository
 
-This repository contains a personal portfolio website for Christopher Horrell (DevOps Engineer).
+The GitHub profile README for Christopher Horrell (Staff DevOps Engineer). It introduces the person and links to the portfolio at [horrell-consulting](https://github.com/horrell-consulting), which holds the full track record and showcase repositories. Keep the headline and numbers consistent with that page, LinkedIn and the CV.
 
 ## Project Overview
 
